@@ -1,0 +1,3 @@
+erty=int(input( "enter your num : "))
+for i in range(erty,0,-1):
+    print(i)
