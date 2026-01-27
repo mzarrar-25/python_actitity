@@ -3,3 +3,4 @@ temp1=("")
 for i in qwe:
     temp1=i+temp1
 print("reversed str=",temp1)
+print("hello")
